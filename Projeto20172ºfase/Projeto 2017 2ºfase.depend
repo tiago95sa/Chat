@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1515531584 source:c:\users\tiago\desktop\projeto 2017 2ºfase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto_funcoes.h"
+
+1515605552 source:c:\users\tiago\desktop\projeto 2017 2ºfase\projeto_funcoes.c
+	"projeto_funcoes.h"
+
+1515605520 c:\users\tiago\desktop\projeto 2017 2ºfase\projeto_funcoes.h
+	<sorting.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib_util.h"
+	"stringsorting.h"
+	<math.h>
+	"lib_stats.h"
+	"stringsearch_kmp.h"
+
+1510538216 source:c:\users\tiago\desktop\projeto 2017 2ºfase\lib_stats.c
+	"lib_stats.h"
+
+1510538219 c:\users\tiago\desktop\projeto 2017 2ºfase\lib_stats.h
+	<stdio.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1510538209 source:c:\users\tiago\desktop\projeto 2017 2ºfase\lib_util.c
+	"lib_util.h"
+
+1510538213 c:\users\tiago\desktop\projeto 2017 2ºfase\lib_util.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/time.h>
+
+1513304991 source:c:\users\tiago\desktop\projeto 2017 2ºfase\stringsearch_kmp.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"stringsearch_kmp.h"
+
+1513212809 c:\users\tiago\desktop\projeto 2017 2ºfase\stringsearch_kmp.h
+
+1511129747 source:c:\users\tiago\desktop\projeto 2017 2ºfase\stringsorting.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"lib_util.h"
+	"stringsorting.h"
+
+1510538192 c:\users\tiago\desktop\projeto 2017 2ºfase\stringsorting.h
+
+1514076064 c:\users\tiago\desktop\projeto 2017 2ºfase\sorting.h
+
+1514680667 source:c:\users\tiago\desktop\projeto 2017 2ºfase\sorting.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"lib_util.h"
+	"sorting.h"
+
+1515605587 source:c:\users\tiago\desktop\projeto 2017 2ºfase\mergesortlinkedlist.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"mergeSortLinkedList.h"
+
+1515603377 c:\users\tiago\desktop\projeto 2017 2ºfase\mergesortlinkedlist.h
+	"projeto_funcoes.h"
+
+1510538216 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\lib_stats.c
+	"lib_stats.h"
+
+1510538219 c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\lib_stats.h
+	<stdio.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1510538209 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\lib_util.c
+	"lib_util.h"
+
+1510538213 c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\lib_util.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/time.h>
+
+1515531584 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto_funcoes.h"
+
+1516232138 c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\projeto_funcoes.h
+	<sorting.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"lib_util.h"
+	"stringsorting.h"
+	<math.h>
+	"lib_stats.h"
+	"stringsearch_kmp.h"
+
+1514076064 c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\sorting.h
+
+1510538192 c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\stringsorting.h
+
+1513212809 c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\stringsearch_kmp.h
+
+1516059194 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\mergesortlinkedlist.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"mergeSortLinkedList.h"
+
+1515603377 c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\mergesortlinkedlist.h
+	"projeto_funcoes.h"
+
+1514680667 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\sorting.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"lib_util.h"
+	"sorting.h"
+
+1513304991 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\stringsearch_kmp.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"stringsearch_kmp.h"
+
+1511129747 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\stringsorting.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"lib_util.h"
+	"stringsorting.h"
+
+1516235762 source:c:\users\tiago\desktop\projeto lp1 e aed1\projeto 2017 2ºfase\projeto_funcoes.c
+	"projeto_funcoes.h"
+
